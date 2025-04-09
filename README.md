@@ -1,3 +1,3 @@
-# A Repo for College Addon [Archived Repo]
+# [Archived Repo]
 
-### This repo is only for college addon purpose not a public project.
+### This repo is not a public project.

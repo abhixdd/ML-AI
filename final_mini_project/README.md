@@ -4,8 +4,8 @@
 This repository contains an automated system to classify natural scene images (Forest, Glacier, Buildings, Sea, Mountain, Street) using Deep Learning.
 
 ### Repository Structure
-- `model_finalised.ipynb`: Final Clean Code
-- `model_generation.ipynb`: Comprehensive notebook containing:
+- `task_question_answers.ipynb`: Question and Answers for the tasks asked in the project.
+- **`model_generation_main.ipynb`: Comprehensive notebook containing:**
     - Data exploration and distribution analysis.
     - Preprocessing and augmentation strategies.
     - CNN Model design and training logic.
@@ -38,6 +38,7 @@ Open `ai_ml_mini_project.ipynb` in any Jupyter environment to view the detailed 
 - **Backend**: Keras 3 (Multi-backend supported).
 - **Target Size**: 150x150 pixels.
 - **Categories**: 6 (Buildings, Forest, Glacier, Mountain, Sea, Street).
+
 
 
 

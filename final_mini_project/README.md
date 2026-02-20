@@ -1,6 +1,6 @@
 # Image Classification Project - Abhinav A
 ## AIML Exit Examination
-
+![Project Demo](https://github.com/abhixdd/ML-AI/raw/main/final_mini_project/img.png)
 This repository contains an automated system to classify natural scene images (Forest, Glacier, Buildings, Sea, Mountain, Street) using Deep Learning.
 
 ### Repository Structure
@@ -38,5 +38,6 @@ Open `ai_ml_mini_project.ipynb` in any Jupyter environment to view the detailed 
 - **Backend**: Keras 3 (Multi-backend supported).
 - **Target Size**: 150x150 pixels.
 - **Categories**: 6 (Buildings, Forest, Glacier, Mountain, Sea, Street).
+
 
 
